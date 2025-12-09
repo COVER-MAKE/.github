@@ -37,6 +37,7 @@ AI 기술을 활용하여 도서의 내용을 분석하고 그에 어울리는 �
 
 </br>
 
+
 ## 시스템 구조
 <img width="1991" height="756" alt="스크린샷 2025-12-09 093702" src="https://github.com/user-attachments/assets/302bdc6c-d8f5-405b-9c65-d434426b3dcc" />
 
@@ -48,5 +49,8 @@ AI 기술을 활용하여 도서의 내용을 분석하고 그에 어울리는 �
 <table> <tr> <th>홈</th>  </tr> <tr> <td><img width="2539" height="1303" alt="메인화면" src="https://github.com/user-attachments/assets/f96b7ed7-df2d-4e60-ac9b-b5834c490635" />
 </td>  </tr> </table>
 <table> <tr> <th>도서 목록</th> <th>도서 상세</th> <th>상세(확대)</th> </tr> <tr> <td><img src="./exec/image4.png" width="300"/></td> <td><img src="./exec/gif1.gif" width="300"/></td> <td><img src="./exec/gif2.gif" width="300"/></td> </tr> </table>
-<table> <tr> <th>도서 등록</th> <th>도서 수정</th> </tr> <tr> <td><img src="./exec/image5.png" width="450"/></td> <td><img src="./exec/gif3.gif" width="450"/></td> </tr> </table>
+<table> <tr> <th>도서 등록</th> <th>도서 표지 생성</th> </tr> <tr> <td><img width="450" height="1301" alt="image" src="https://github.com/user-attachments/assets/1ebe8fa7-94bd-4f5d-8b54-7962effdc770" />
+
+</td> <td><img src="https://github.com/user-attachments/assets/fced4e53-df71-43a6-9780-0ded7d82f085" alt="ai 표지 생성" width="450" />
+</td> </tr> </table>
 <table> <tr> <th>마이페이지</th> <th>로그아웃</th> </tr> <tr> <td><img src="./exec/건의함.png" width="450"/></td> <td><img src="./exec/건의함2.png" width="450"/></td> </tr> </table>
