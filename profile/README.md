@@ -70,7 +70,7 @@ gradlew bootrun
 </td> </tr> </table>
 <table> <tr> <th>도서 등록</th> <th>도서 표지 생성</th> </tr> <tr> <td><img width="450" height="1301" alt="image" src="https://github.com/user-attachments/assets/1ebe8fa7-94bd-4f5d-8b54-7962effdc770" />
 
-</td> <td><img src="https://github.com/user-attachments/assets/fced4e53-df71-43a6-9780-0ded7d82f085" alt="ai 표지 생성" width="450" />
+</td> <td><img width="450" height="1301" src="https://github.com/user-attachments/assets/fced4e53-df71-43a6-9780-0ded7d82f085" alt="ai 표지 생성" />
 </td> </tr> </table>
 <table> <tr> <th>마이페이지</th> </tr> <tr> <td><img width="450" height="1305" alt="image" src="https://github.com/user-attachments/assets/4051ac88-b5f0-4f70-9e03-8bdc0307e1cf" />
 </td></tr> </table>
