@@ -5,7 +5,24 @@ AI 기술을 활용하여 도서의 내용을 분석하고 그에 어울리는 �
 누구나 쉽게 도서를 등록하고 관리하며 나만의 디지털 서재를 꾸밀 수 있습니다.
 
 ## 프로젝트 실행 방법
+### Backend
+1. Repository Clone => git clone [https://github.com/COVER-MAKE/writers-walk-backend.git](https://github.com/COVER-MAKE/writers-walk-backend.git)
+3. 프로젝트 루트 디렉토리로 이동 -> cd writers-walk-backend
+4. 빌드 및 실행 (터미널 사용 시)
+- Linux / macOS </br>
+./gradlew clean build </br>
+./gradlew bootrun
 
+- Windows (PowerShell or CMD) </br>
+gradlew clean build </br>
+gradlew bootrun
+
+### Frontend
+1. Repository Clone => git clone [https://github.com/COVER-MAKE/writers-walk-frontend.git](https://github.com/COVER-MAKE/writers-walk-frontend.git)
+2. 프로젝트 루트 디렉토리로 이동 => cd writers-walk-frontend
+3. 의존성 패키지 설치 => npm install
+4. 개발 서버 실행=> npm run dev
+5. 브라우저 확인 => 터미널에 표시된 로컬 주소(예: http://localhost:5173)로 접속하여 확인합니다.
 
 ## 참여인원
 
@@ -55,4 +72,5 @@ AI 기술을 활용하여 도서의 내용을 분석하고 그에 어울리는 �
 
 </td> <td><img src="https://github.com/user-attachments/assets/fced4e53-df71-43a6-9780-0ded7d82f085" alt="ai 표지 생성" width="450" />
 </td> </tr> </table>
-<table> <tr> <th>마이페이지</th> <th>로그아웃</th> </tr> <tr> <td><img src="./exec/건의함.png" width="450"/></td> <td><img src="./exec/건의함2.png" width="450"/></td> </tr> </table>
+<table> <tr> <th>마이페이지</th> </tr> <tr> <td><img width="450" height="1305" alt="image" src="https://github.com/user-attachments/assets/4051ac88-b5f0-4f70-9e03-8bdc0307e1cf" />
+</td></tr> </table>
