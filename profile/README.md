@@ -69,8 +69,12 @@ gradlew bootrun
 </td> <td><img width="450" height="1303" alt="image" src="https://github.com/user-attachments/assets/dc3fec3b-41da-4c5d-a31d-b5d55de3382f" />
 </td> </tr> </table>
 <table> <tr> <th>도서 등록</th> <th>도서 표지 생성</th> </tr> <tr> <td><img width="450" height="1301" alt="image" src="https://github.com/user-attachments/assets/1ebe8fa7-94bd-4f5d-8b54-7962effdc770" />
-
 </td> <td><img width="450" height="1301" src="https://github.com/user-attachments/assets/fced4e53-df71-43a6-9780-0ded7d82f085" alt="ai 표지 생성" />
+</td> </tr> </table>
+<table> <tr> <th>도서 수정</th> <th>도서 삭제</th> </tr> <tr> <td><img width="450" height="1301" src="https://github.com/user-attachments/assets/5138e855-4cdf-4b7c-826d-5ed1e87492f0" alt="도서 수정" />
+
+</td> <td><img width="450" height="1301" src="https://github.com/user-attachments/assets/dc524402-7731-4646-9b14-b89ef3188592" alt="도서 삭제" />
+
 </td> </tr> </table>
 <table> <tr> <th>마이페이지</th> </tr> <tr> <td><img width="450" height="1305" alt="image" src="https://github.com/user-attachments/assets/4051ac88-b5f0-4f70-9e03-8bdc0307e1cf" />
 </td></tr> </table>
